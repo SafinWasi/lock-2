@@ -1,11 +1,11 @@
 {
     "cedar_version": "string",
     "policy_store": {
-        "id": "e25c722d65235056986ac769b571f45237212bfe6a1e",
+        "id": "8106eaaf1f63b2e3d2b10e740cd23cb85c6dbbff7b65",
         "name": "string2",
         "description": "string",
         "version": "0.0.1",
-        "created_date": "2025-11-18T05:09:28.803554+00:00",
-        "updated_at": "2025-11-18T05:09:28.803563+00:00"
+        "created_date": "2025-11-18T05:15:30.411507+00:00",
+        "updated_at": "2025-11-18T05:15:30.411514+00:00"
     }
 }
