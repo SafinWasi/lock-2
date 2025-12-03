@@ -1,14 +1,22 @@
 {
     "policy_store_id": "c8218beef59d4ccb6759a81a7e8909f86586b075aef7",
-    "generated_date": "2025-12-01T02:16:16.433113+00:00",
+    "generated_date": "2025-12-03T04:03:17.289124+00:00",
     "files": {
         "manifest.json": {
-            "size": 429,
-            "checksum": "sha1:b78d6068cb9e4e545e2e603e08c0d9f1e4d42b72"
+            "size": 564,
+            "checksum": "sha1:055f2de05868e918179302550028f626a785e8a7"
         },
         "metadata.json": {
-            "size": 340,
-            "checksum": "sha1:7442ddf9db1e6e475d8b3631f116f85986616b2f"
+            "size": 332,
+            "checksum": "sha1:9ca929310e82e0d1f55d85eb9da30fe6a1180d4c"
+        },
+        "policies/newPolicy.cedar": {
+            "size": 11,
+            "checksum": "sha1:47d2739ba2c34690248c8f91b84bb54e8936899a"
+        },
+        "policies/string2.cedar": {
+            "size": 11,
+            "checksum": "sha1:47d2739ba2c34690248c8f91b84bb54e8936899a"
         },
         "schema.cedarschema": {
             "size": 15966,
