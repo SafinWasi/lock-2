@@ -1,10 +1,14 @@
 {
     "policy_store_id": "c8bcb071465c4807ffa0323970b820b2eb19e5677bf6",
-    "generated_date": "2025-12-11T09:39:17.575162+00:00",
+    "generated_date": "2025-12-11T09:40:57.590780+00:00",
     "files": {
+        "manifest.json": {
+            "size": 428,
+            "checksum": "sha1:d853b4e1a1eb4f4f984673b78dc6e1131f877fce"
+        },
         "metadata.json": {
-            "size": 336,
-            "checksum": "sha1:d64ab7afb0c23f7d5030eae98c79683db26ab134"
+            "size": 333,
+            "checksum": "sha1:d50e36fd1cc3942e1ebed83d52892e4deb89bd78"
         },
         "schema.cedarschema": {
             "size": 4323,
