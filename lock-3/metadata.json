@@ -1,0 +1,11 @@
+{
+    "cedar_version": "string",
+    "policy_store": {
+        "id": "c8bcb071465c4807ffa0323970b820b2eb19e5677bf6",
+        "name": "lock-3",
+        "description": "Lorem Ipsum",
+        "version": "string",
+        "created_date": "2025-12-11T09:39:10.321823+00:00",
+        "updated_date": "2025-12-11T09:39:10.321831+00:00"
+    }
+}
