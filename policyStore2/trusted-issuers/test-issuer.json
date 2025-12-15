@@ -1,0 +1,29 @@
+{
+    "id": "1a504a00faa4f522783ff6e57c612b7e3ca022d70561",
+    "name": "test-issuer",
+    "description": "Jans IDP",
+    "configuration_endpoint": "https://jans-host.com/.well-known/openid-configuration",
+    "token_metadata": {
+        "access_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::Access_token",
+            "required_claims": [
+                "jti",
+                "iss",
+                "aud",
+                "sub",
+                "exp",
+                "nbf"
+            ]
+        },
+        "id_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::id_token",
+            "user_id": "sub",
+            "role_mapping": "role",
+            "principal_mapping": [
+                "Jans::User"
+            ]
+        }
+    }
+}
