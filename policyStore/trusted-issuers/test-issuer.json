@@ -1,0 +1,10 @@
+{
+    "name": "test-issuer",
+    "configuration_endpoint": "string",
+    "token_metadata": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+    },
+    "id": "5d5a72e8ee126f2475b87d13eb048c74778b6cf28ca4"
+}
