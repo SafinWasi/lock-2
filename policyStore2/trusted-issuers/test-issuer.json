@@ -1,5 +1,5 @@
 {
-    "id": "1a504a00faa4f522783ff6e57c612b7e3ca022d70561",
+    "id": "new_value",
     "name": "test-issuer",
     "description": "Jans IDP",
     "configuration_endpoint": "https://jans-host.com/.well-known/openid-configuration",
