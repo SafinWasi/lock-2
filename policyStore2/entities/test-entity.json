@@ -2,7 +2,7 @@
     {
         "attrs": {},
         "uid": {
-            "id": "id",
+            "id": "string",
             "entity_type": "rrr"
         },
         "parents": [
