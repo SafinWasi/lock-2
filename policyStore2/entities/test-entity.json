@@ -1,0 +1,15 @@
+[
+    {
+        "attrs": {},
+        "uid": {
+            "id": "id",
+            "entity_type": "rrr"
+        },
+        "parents": [
+            {
+                "id": "string",
+                "entity_type": "string"
+            }
+        ]
+    }
+]
