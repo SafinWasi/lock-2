@@ -1,0 +1,12 @@
+{
+    "tags": {
+        "a": "b"
+    },
+    "attrs": {
+        "a": "c"
+    },
+    "uid": {
+        "entity_type": "type",
+        "id": "id"
+    }
+}
