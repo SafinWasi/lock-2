@@ -1,0 +1,13 @@
+[
+    {
+        "uid": {
+            "id": "name",
+            "entity_type": "2"
+        },
+        "attrs": {
+            "additionalProp1": "a",
+            "additionalProp2": "b",
+            "additionalProp3": "c"
+        }
+    }
+]
