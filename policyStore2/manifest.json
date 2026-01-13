@@ -1,6 +1,6 @@
 {
     "policy_store_id": "c8218beef59d4ccb6759a81a7e8909f86586b075aef7",
-    "generated_date": "2026-01-02T03:10:32.076764+00:00",
+    "generated_date": "2026-01-13T04:19:38.180887+00:00",
     "files": {
         "entities/def.json": {
             "size": 236,
@@ -14,25 +14,21 @@
             "size": 149,
             "checksum": "sha1:90153aa6a4f2affb763736271577fb6900f5e2dc"
         },
-        "entities/test-entity3.json": {
-            "size": 120,
-            "checksum": "sha1:70b55a9db6484210bb27e1546f6816f41c2e1276"
-        },
         "manifest.json": {
-            "size": 1151,
-            "checksum": "sha1:852ad1c48d2e463eaebd65189de77e752800d5c9"
+            "size": 1290,
+            "checksum": "sha1:68db49549f2a092756b88abd8759d7dc7639ac7a"
         },
         "metadata.json": {
-            "size": 332,
-            "checksum": "sha1:9ca929310e82e0d1f55d85eb9da30fe6a1180d4c"
+            "size": 343,
+            "checksum": "sha1:29065f0c767524119707496478a6a5ea49f0c792"
         },
         "policies/string2.cedar": {
             "size": 11,
             "checksum": "sha1:47d2739ba2c34690248c8f91b84bb54e8936899a"
         },
         "schema.cedarschema": {
-            "size": 15966,
-            "checksum": "sha1:f370a6200955efd7ea64ca4bcb4cdf8b932edfc7"
+            "size": 4249,
+            "checksum": "sha1:de9b13535251cf9504555bde8a4c881f0c63ce52"
         }
     }
 }
