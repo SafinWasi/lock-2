@@ -1,1 +1,24 @@
-[{"parents": [{"type": "string", "id": "string"}], "tags": {"additionalProp1": "string", "additionalProp2": "string", "additionalProp3": "string"}, "attrs": {"additionalProp1": "string", "additionalProp2": "string", "additionalProp3": "string"}, "uid": {"type": "string", "id": "string"}}]
+[
+  {
+    "parents": [
+      {
+        "type": "string",
+        "id": "string"
+      }
+    ],
+    "tags": {
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "attrs": {
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "uid": {
+      "type": "string",
+      "id": "string"
+    }
+  }
+]
