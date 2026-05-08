@@ -1,0 +1,11 @@
+{
+    "cedar_version": "string",
+    "policy_store": {
+        "id": "ebc6fc6b8d5925a6155abd7e33c2670dc87e97947694",
+        "name": "lock5",
+        "description": "string",
+        "version": "string",
+        "created_date": "2026-05-08T03:05:15.432176+00:00",
+        "updated_date": "2026-05-08T03:05:15.432183+00:00"
+    }
+}
