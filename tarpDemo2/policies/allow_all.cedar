@@ -1,4 +1,4 @@
-@id("Describe the policy here")
+@id("allow_all")
 permit (
   principal,
   action,
