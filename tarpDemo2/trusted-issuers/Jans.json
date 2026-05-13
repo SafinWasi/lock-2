@@ -20,34 +20,6 @@
             "principal_mapping": [
                 "Jans::Workload"
             ]
-        },
-        "id_token": {
-            "trusted": true,
-            "entity_type_name": "Jans::id_token",
-            "user_id": "sub",
-            "token_id": "jti",
-            "role_mapping": "role",
-            "claim_mapping": {},
-            "principal_mapping": [
-                "Jans::User"
-            ]
-        },
-        "userinfo_token": {
-            "trusted": true,
-            "entity_type_name": "Jans::Userinfo_token",
-            "user_id": "sub",
-            "token_id": "jti",
-            "role_mapping": "role",
-            "claim_mapping": {},
-            "principal_mapping": [
-                "Jans::User"
-            ]
-        },
-        "tx_token": {
-            "trusted": true,
-            "entity_type_name": "Jans::Access_token",
-            "user_id": "sub",
-            "token_id": "jti"
         }
     },
     "id": "2c571ac1f608c81f17ed475ea4b7c3514ad09b5c69ea"
