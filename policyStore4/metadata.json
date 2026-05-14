@@ -2,10 +2,10 @@
     "cedar_version": "bbbbbb",
     "policy_store": {
         "id": "c8218beef59d4ccb6759a81a7e8909f86586b075aef7",
-        "name": "policyStore3",
+        "name": "policyStore4",
         "description": "abcdef",
         "version": "aaaaaa",
         "created_date": "2025-12-01T02:14:57.758946+00:00",
-        "updated_date": "2026-05-14T03:49:40.744448+00:00"
+        "updated_date": "2026-05-14T03:59:48.793254+00:00"
     }
 }
