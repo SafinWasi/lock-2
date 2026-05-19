@@ -1,6 +1,0 @@
-@id("allow_all")
-permit (
-  principal,
-  action,
-  resource
-);
