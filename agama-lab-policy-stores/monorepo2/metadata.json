@@ -1,0 +1,11 @@
+{
+    "cedar_version": "string",
+    "policy_store": {
+        "id": "3902b803486132ba80a7515e4071bb4eba9a18a837f2",
+        "name": "monorepo2",
+        "description": "string",
+        "version": "string",
+        "created_date": "2026-09-10T03:03:33.440048+00:00",
+        "updated_date": "2026-09-10T03:03:33.440056+00:00"
+    }
+}
