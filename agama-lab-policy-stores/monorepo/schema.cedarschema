@@ -11,8 +11,6 @@ namespace Jans {
     user_agent?: String
   };
 
-  type Context2 = __cedar::String;
-
   type TokensContext = {
     total_token_count: Long
   };
