@@ -1,0 +1,36 @@
+{
+    "id": "5cf261d468669bf2599e05c55f737344b03539e77942",
+    "name": "Jans",
+    "description": "",
+    "configuration_endpoint": "https://account.gluu.org/.well-known/openid-configuration",
+    "token_metadata": {
+        "access_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::Access_token",
+            "token_id": "jti",
+            "required_claims": [
+                "jti",
+                "iss",
+                "aud",
+                "sub",
+                "exp",
+                "nbf"
+            ]
+        },
+        "id_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::id_token",
+            "token_id": "jti"
+        },
+        "userinfo_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::Userinfo_token",
+            "token_id": "jti"
+        },
+        "tx_token": {
+            "trusted": true,
+            "entity_type_name": "Jans::Access_token",
+            "token_id": "jti"
+        }
+    }
+}
