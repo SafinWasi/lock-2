@@ -32,5 +32,18 @@
         },
         "token_id": "jti",
         "required_claims": []
+    },
+    "Lorem::Access_token": {
+        "type": "jwt",
+        "issuer": "Lorem",
+        "configuration_endpoints": {
+            "configuration": "https://account.gluu.org/.well-known/openid-configuration"
+        },
+        "token_id": "jti",
+        "required_claims": [
+            "jti",
+            "iss",
+            "sub"
+        ]
     }
 }
