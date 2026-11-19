@@ -16,5 +16,16 @@
         },
         "token_id": "jti",
         "required_claims": []
+    },
+    "Jans::Access_token": {
+        "type": "jwt",
+        "issuer": "Jans",
+        "configuration_endpoints": {
+            "configuration": "https://account.gluu.org/.well-known/openid-configuration"
+        },
+        "token_id": "jti",
+        "required_claims": [
+            "jti"
+        ]
     }
 }
