@@ -1,13 +1,4 @@
 {
-    "Jans::id_token": {
-        "type": "jwt",
-        "issuer": "Jans",
-        "configuration_endpoints": {
-            "configuration": "https://account.gluu.org/.well-known/openid-configuration"
-        },
-        "token_id": "jti",
-        "required_claims": []
-    },
     "Jans::Userinfo_token": {
         "type": "jwt",
         "issuer": "Jans",
