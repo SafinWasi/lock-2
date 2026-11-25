@@ -1,1 +1,13 @@
-{}
+{
+    "Jans::Access_token": {
+        "type": "jwt",
+        "issuer": "Jans",
+        "configuration_endpoints": {
+            "configuration": "https://account-dev.gluu.cloud/.well-known/openid-configuration"
+        },
+        "token_id": "jti",
+        "required_claims": [
+            "jti"
+        ]
+    }
+}
